@@ -22,7 +22,7 @@ O: gets killed by X and Triangle, can only move through yellow, when player lose
 X: kills O and Triangle and can tunnel rock leaving a trail of yellow<br>
 Triangle: kills O, gets killed by X and can only move though yellow<br>
 
-**Recommended system requirements:**
+**Recommended system requirements:**<br>
 OS: Windows 2000, XP, Vista, 7, 8, 8.1, 10, 11<br>
 Resolution: 1360 x 768 or higher<br>
 Input: keyboard and mouse<br>
